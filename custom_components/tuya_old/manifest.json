@@ -1,11 +1,12 @@
 {
-  "domain": "tuya",
-  "name": "Tuya",
+  "domain": "tuya_old",
+  "name": "Tuya (old)",
   "documentation": "https://www.home-assistant.io/integrations/tuya",
   "requirements": ["tuyaha==0.0.10"],
   "codeowners": ["@ollo69"],
   "config_flow": true,
   "iot_class": "cloud_polling",
+  "version": "2021.9.7",
   "dhcp": [
     {"macaddress": "508A06*"},
     {"macaddress": "7CF666*"},

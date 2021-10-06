@@ -1,0 +1,6 @@
+{
+  "name": "Tuya (old)",
+  "domains": "tuya_old",
+  "iot_class": "cloud push",
+  "homeassistant": "2021.10.0"
+}
